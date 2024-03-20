@@ -1,6 +1,5 @@
-A Windows C++ Morse Class derived from ARPANET Pentagon's morse. Feel free to make morse, morsed or morseb binaries for it like once was implemented into Linux and Unix os's. Compile morse.ccp and morse-wav.cpp together to create an executable. The other files are Linux alternatives.
+A C++ console app with sound derived from ARPANET Pentagon's morse. This is a visual studio project, download, make sure you have visual studio and open the sln file.
 <br><br>
-C++ console app with sound: In principle you only need morse.cpp and morse-wav.cpp to create a VS or Codeblocks project.
 
 <img src=https://github.com/RayColt/morse/blob/master/cpp/morse.jpg>
 <br>
